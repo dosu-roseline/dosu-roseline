@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Roseline Dosu</h1>
 
-<!--
-**dosu-roseline/dosu-roseline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Engineer passionate about building scalable, accessible and user-focused web applications.
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Currently growing towards becoming a Senior Frontend Engineer while building products that create meaningful impact.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩🏽‍💻 About Me
+
+- 💼 Frontend Engineer with **3+ years of professional experience**
+- ⚛️ Building modern web applications with **React**
+- 🌱 Currently mastering **JavaScript, TypeScript, Testing, Frontend Architecture & System Design**
+- 🚀 Working towards opportunities with **international engineering teams**
+- 📚 Continuous learner through **Master.dev**, technical books and hands-on projects
+- 💡 I enjoy transforming complex business requirements into intuitive user experiences.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • HTML • CSS
+
+### Frontend
+
+React • Tailwind CSS • React Router • React Hook Form • TanStack Query
+
+### Tools
+
+Git • GitHub • Vite • Figma • VS Code • GitHub Copilot
+
+### Currently Learning
+
+TypeScript • Testing • Frontend System Design • Performance Optimization • Accessibility
+
+---
+
+## 📌 Current Focus
+
+🎯 Become a Senior Frontend Engineer within the next 2–3 years.
+
+I'm intentionally improving in:
+
+- Advanced JavaScript
+- TypeScript
+- React Architecture
+- Testing
+- Frontend Performance
+- Accessibility
+- System Design
+
+---
+
+## 📈 2026 Goals
+
+- ✅ Master JavaScript
+- ⏳ Learn TypeScript deeply
+- ⏳ Write production-quality tests
+- ⏳ Build 3 portfolio projects
+- ⏳ Contribute to Open Source
+- ⏳ Share technical articles consistently
+
+---
+
+## 🌟 Featured Projects
+
+Here are some projects I'm proud of.
+
+- 📊 Investment Dashboard
+- 👥 Customer Portal
+- 💼 Portfolio Website
+- 🧩 React Component Library
+
+*(Pinned below 👇)*
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/dosu-roseline
+- 🌐 Portfolio: https://dosu-roseline (Coming soon)
+- 📧 Email: dosuroseline@gmail.com
+
+---
+
+> **"To yourself be true."**
