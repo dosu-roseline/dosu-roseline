@@ -17,9 +17,14 @@ Frontend Engineer with 3+ years of experience building scalable React applicatio
 
 - 💼 Frontend Engineer with **3+ years of professional experience**
 - ⚛️ Building modern web applications with **React**
-- 🌱 Currently mastering **JavaScript, TypeScript, Testing, Frontend Architecture & System Design**
+- 🌱 Currently deepening my expertise in:
+  - TypeScript
+  - Frontend Architecture
+  - Testing
+  - Performance Optimization
+  - System Design
 - 🚀 Working towards opportunities with **international engineering teams**
-- 📚 Continuous learner through **Master.dev**, technical books and hands-on projects
+- 📚 Committed to continuous learning through technical books, documentation and hands-on projects.
 - 💡 I enjoy transforming complex business requirements into intuitive user experiences.
 
 ---
@@ -27,16 +32,19 @@ Frontend Engineer with 3+ years of experience building scalable React applicatio
 ## 🛠 Tech Stack
 
 ### Languages
-
-JavaScript • TypeScript • HTML • CSS
+JavaScript • TypeScript
 
 ### Frontend
+React • Tailwind CSS • React Router
 
-React • Tailwind CSS • React Router • React Hook Form • TanStack Query
+### Data Fetching
+TanStack Query
+
+### Forms
+React Hook Form
 
 ### Tools
-
-Git • GitHub • Vite • Figma • VS Code • GitHub Copilot
+Git • GitHub • Vite • Figma
 
 ### Current Focus
 
@@ -58,9 +66,9 @@ Git • GitHub • Vite • Figma • VS Code • GitHub Copilot
 
 ---
 
-## 📈 2026 Goals
+## 🎯 Current Goals
 
-- ✅ Master JavaScript
+- ✅ Learn JavaScript deeply
 - ⏳ Learn TypeScript deeply
 - ⏳ Write production-quality tests
 - ⏳ Build 3 portfolio projects
@@ -71,22 +79,36 @@ Git • GitHub • Vite • Figma • VS Code • GitHub Copilot
 
 ## 🌟 Featured Projects
 
-Here are some projects I'm proud of.
+### 📊 Investment Dashboard
 
-- 📊 Investment Dashboard
-- 👥 Customer Portal
-- 💼 Portfolio Website
-- 🧩 React Component Library
+A production-style investment platform built with React and TanStack Query.
 
-*(Pinned below 👇)*
+Highlights
+
+- Portfolio analytics
+- Charts
+- Authentication
+- Optimistic updates
+- Responsive design
+
+---
+
+### 👥 Customer Portal
+
+Enterprise portal featuring
+
+- Document uploads
+- Role-based access
+- Dynamic forms
+- API integrations
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/dosu-roseline
-- 🌐 Portfolio: https://dosu-roseline (Coming soon)
-- 📧 Email: dosuroseline@gmail.com
+- 💼 <a href="https://linkedin.com/in/dosu-roseline">LinkedIn</a>
+- 🌐 Portfolio (Coming soon)
+- 📧 <a href="dosuroseline@gmail.com">Email</a> 
 
 ---
 
