@@ -1,15 +1,15 @@
 
 
 <img width="1983" height="793" alt="ChatGPT Image Aug 4, 2026, 10_28_12 AM" src="https://github.com/user-attachments/assets/776e3ef8-ee40-4b68-8e9c-3810d825ee95" />
+
+
 <h1 align="center">Hi 👋, I'm Roseline Dosu</h1>
 
-<h3 align="center">
-Frontend Engineer passionate about building scalable, accessible and user-focused web applications.
-</h3>
 
-<p align="center">
-Currently growing towards becoming a Senior Frontend Engineer while building products that create meaningful impact.
-</p>
+
+<h3 align="center">
+Frontend Engineer with 3+ years of experience building scalable React applications. Currently mastering TypeScript, frontend architecture, and testing while preparing for senior engineering roles.
+</h3>
 
 ---
 
@@ -38,25 +38,23 @@ React • Tailwind CSS • React Router • React Hook Form • TanStack Query
 
 Git • GitHub • Vite • Figma • VS Code • GitHub Copilot
 
-### Currently Learning
+### Current Focus
 
-TypeScript • Testing • Frontend System Design • Performance Optimization • Accessibility
+• Advanced JavaScript
+• TypeScript
+• Frontend Architecture
+• Testing
+• Performance Optimization
 
 ---
 
-## 📌 Current Focus
+## Engineering Principles
 
-🎯 Become a Senior Frontend Engineer within the next 2–3 years.
-
-I'm intentionally improving in:
-
-- Advanced JavaScript
-- TypeScript
-- React Architecture
-- Testing
-- Frontend Performance
-- Accessibility
-- System Design
+- Write code that's easy to maintain.
+- Optimize for readability before cleverness.
+- Accessibility is a feature, not an afterthought.
+- Test behavior, not implementation.
+- Keep learning.
 
 ---
 
