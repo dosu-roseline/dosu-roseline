@@ -93,9 +93,11 @@ Here are some projects I'm proud of.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dosu-roseline&show_icons=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dosu-roseline&show_icons=true&theme=transparent&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosu-roseline&layout=compact)
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosu-roseline&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ## 📈 Contribution Graph
 
