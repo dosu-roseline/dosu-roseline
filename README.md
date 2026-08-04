@@ -1,3 +1,6 @@
+
+
+<img width="1983" height="793" alt="ChatGPT Image Aug 4, 2026, 10_28_12 AM" src="https://github.com/user-attachments/assets/776e3ef8-ee40-4b68-8e9c-3810d825ee95" />
 <h1 align="center">Hi 👋, I'm Roseline Dosu</h1>
 
 <h3 align="center">
@@ -91,14 +94,3 @@ Here are some projects I'm proud of.
 
 > **"To yourself be true."**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dosu-roseline&show_icons=true&theme=transparent&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosu-roseline&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dosu-roseline)
