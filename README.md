@@ -90,3 +90,13 @@ Here are some projects I'm proud of.
 ---
 
 > **"To yourself be true."**
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dosu-roseline&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosu-roseline&layout=compact)
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dosu-roseline)
